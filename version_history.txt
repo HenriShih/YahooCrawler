@@ -1,0 +1,15 @@
+HISTORY of the YahooBuyCrawler
+------------------------------
+
+v.2.0.0		2018-11-10
+------------------------------
+- Encapsulate the crawler object
+- Replace in-program configuration (var:_select_categories) with file base configuration (category_list_options.csv)
+  for category options.
+- Optimize main() function workflow
+- Update ReadMe.md file with new workflow and configuration
+
+
+v.1.0.0.	2018-11-04
+------------------------------
+- First Release
